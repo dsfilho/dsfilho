@@ -1,5 +1,5 @@
 # Olá Visitante!
-<p>Me chamo Daniel Filho atuo no mercado de tecnologia a mais de 15 anos, tendo trabalhado na área da industria e comércio, em pequenas e grandes empresas, trabalhando diretamente com infraestrutura de TI, Segurança de redes e suporte a usuários, tenho como pedra angular a busca pelo alinhamento da tecnologia ao negócio do cliente.
+<p>Me chamo Daniel Filho atuo no mercado de tecnologia a mais de 10 anos, tendo trabalhado na área da industria e comércio, em pequenas e grandes empresas, trabalhando diretamente com infraestrutura de TI, Segurança de redes e suporte a usuários, tenho como pedra angular a busca pelo alinhamento da tecnologia ao negócio do cliente.
 
 Nos últimos anos, tenho atuado como desenvolvedor independente com foco em sistemas web, com conhecimento em Php, Java, JavaScript (Node/ React), banco de dados SQL , NoSQL e infraestrutura de serviços web.
 
